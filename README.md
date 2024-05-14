@@ -1,6 +1,6 @@
 # Web-Screenshot-Plugin
 
-A Web Screenshot plugin for [OpenAgents](https://openagents.com/)
+A Web Screenshot plugin for [OpenAgents](https://openagents.com/).
 
 # Introduction
 
